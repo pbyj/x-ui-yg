@@ -25,6 +25,7 @@ dpkg –configure -a
 apt-get install curl
 ```
 就可以正常安装了
+
 特么提醒：
 运用以上方法如果提示依赖包没有安装，可以用如下命令安装
 ```
