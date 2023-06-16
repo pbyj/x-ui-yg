@@ -1,3 +1,6 @@
+### FORK FROM 甬哥 未做任何更改
+
+
 ### x-ui修改版一键脚本（xray内核）
 
 ### 支持纯IPV4、纯IPV6的VPS直接安装，主流linux系统均支持
